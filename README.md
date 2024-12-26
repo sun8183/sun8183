@@ -1,4 +1,4 @@
-<h2><code>Tae Yang's Github👋</code></h2>
+<h2><code>Tae Yang's Github👋👋</code></h2>
 4년차 웹 백엔드 개발자 임태양 입니다.
 
 <h3><code>Back-End</code></h3>
