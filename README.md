@@ -1,5 +1,5 @@
 <h3><code>Tae Yang's Github👋👋</code></h3>
-5년차 풀스택 개발자 임태양 입니다.
+<b>5년차 풀스택 개발자 임태양 입니다.</b>
 
 <hr>
 <h3><code>Tech Stack</code></h3>
