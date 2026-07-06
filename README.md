@@ -60,3 +60,16 @@
 <h4><code>Backjoon Tier</code></h4>
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=sunskyhyun)](https://solved.ac/sunskyhyun/)
+
+<hr>
+<h3><code>Education</code></h3>
+
+- 🎓 서경대학교 컴퓨터과학과 졸업 (2017.03 ~ 2024.08)
+
+<hr>
+<h3><code>Career</code></h3>
+
+- 🏢 **슈어엠 주식회사** 
+  - 2021.02 ~ 2023.08 (병역특례 복무, 퇴사)
+  - 2024.08 ~ 2026.04 (재입사, 4년 5개월 근무)
+  - 주요 업무: Spring Boot, Vue 3 기반 메시징 웹 서비스 운영
